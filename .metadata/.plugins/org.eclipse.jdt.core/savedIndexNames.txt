@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+E:\Users\1947\Desktop\Bmob\liulei\.metadata\.plugins\org.eclipse.jdt.core
+3271193799.index
